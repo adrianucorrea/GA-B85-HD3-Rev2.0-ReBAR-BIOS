@@ -24,6 +24,6 @@ Modded **FH** BIOS for the **Gigabyte GA-B85-HD3 (Rev. 2.0)** motherboard with f
 4. Boot into Windows (UEFI mode), run **`ReBarState.exe`** as Administrator, enter **`32`** (Auto/Max) or your desired BAR size, and reboot.
 
 ## Credits
-- Huge thanks to **[roschank](https://github.com)** for creating the `reBART` module and `rebart_dsdt_patch` tool for Intel 8-Series motherboards.
-- Thanks to **[xCuri0](https://github.com)** for `ReBarState.exe` and **[LongSoft](https://github.com)** for `UEFITool` & `AmiBoardInfoTool`.
+- Huge thanks to [roschank](https://github.com/roschank/reBART) for creating the `reBART` module and `rebart_dsdt_patch` tool for Intel 8-Series motherboards.
+- Thanks to [xCuri0](https://github.com/xCuri0/ReBarUEFI) for `ReBarState.exe` and [LongSoft](https://github.com/LongSoft) for `UEFITool` & `AmiBoardInfoTool`.
 <img width="2559" height="1439" alt="jpg" src="https://github.com/user-attachments/assets/fa0a6772-1227-426b-a040-a37fb35f054b" />
